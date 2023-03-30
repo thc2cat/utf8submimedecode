@@ -8,6 +8,6 @@ Exemple
 -------
 
 ```shell
-~/p/utf8submimedecode (main) $ echo "Re: =?UTF-8?B?w4l0YXQgQ0VU?=" | utf8submimedecode
+$ echo "Re: =?UTF-8?B?w4l0YXQgQ0VU?=" | utf8submimedecode
 Re: État CET
 ```
